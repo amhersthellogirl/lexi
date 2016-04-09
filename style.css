@@ -1,7 +1,10 @@
-h2{
+h1{
 		color:purple;
 		text-align:center;
 }
-  p{
+p{
     font-size 10px;
-  }
+}
+img{	  
+	margin-left: 200px;
+} 
